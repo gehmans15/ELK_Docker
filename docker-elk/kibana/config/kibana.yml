@@ -12,4 +12,4 @@ xpack.monitoring.ui.container.elasticsearch.enabled: true
 elasticsearch.username: elastic
 elasticsearch.password: changeme
 xpack.encryptedSavedObjects.encryptionKey: this_is_an_encryption_key_please_do_not_remove
-#xpack.security.encryptionkey: this_is_an_encryption_key_please_do_not_remove
+#xpack.security.encryptionKey: this_is_an_encryption_key_please_do_not_remove
