@@ -11,5 +11,5 @@ xpack.monitoring.ui.container.elasticsearch.enabled: true
 #
 elasticsearch.username: elastic
 elasticsearch.password: changeme
-xpack.encryptedSavedObjects.encryptionKey: cybrary_home_library_phone_tool_66
-#xpack.security.encryptionkey: cybrary_home_library_phone_tool_66
+xpack.encryptedSavedObjects.encryptionKey: this_is_an_encryption_key_please_do_not_remove
+#xpack.security.encryptionkey: this_is_an_encryption_key_please_do_not_remove
